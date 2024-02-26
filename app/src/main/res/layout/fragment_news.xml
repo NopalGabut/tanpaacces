@@ -66,7 +66,7 @@
                     android:layout_marginEnd="10dp"
                     android:layout_marginBottom="10dp"
                     android:fontFamily="@font/anta"
-                    android:text="Terkini"
+                    android:text="Hot News"
                     android:textColor="#F0ED060D"
                     android:textSize="25dp"
                     android:textStyle="bold"
