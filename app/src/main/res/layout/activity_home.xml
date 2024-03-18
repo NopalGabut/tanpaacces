@@ -24,7 +24,7 @@
         app:menu="@menu/button_menu"
         android:background="@drawable/round_button"
         app:itemIconTint="@drawable/item_select"
-        app:itemTextColor="@color/white"
+        app:itemTextColor="@drawable/item_select2"
         app:labelVisibilityMode="selected"
         app:itemActiveIndicatorStyle="@style/Widget.AppCompat.ActionBar.Solid"/>
 

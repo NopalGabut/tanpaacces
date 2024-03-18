@@ -32,9 +32,6 @@ public class HomeActivity extends AppCompatActivity {
                     case R.id.news:
                         selectedFragment = new NewsFragment();
                         break;
-                    case R.id.sport:
-                        selectedFragment = new SportFragment();
-                        break;
                     case R.id.profile:
                         selectedFragment = new ProfileFragment();
                         break;

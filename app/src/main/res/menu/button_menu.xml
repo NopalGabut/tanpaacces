@@ -5,10 +5,6 @@
         android:title="News Tanpa"
         android:icon="@drawable/news"/>
     <item
-        android:id="@+id/sport"
-        android:title="News Sport"
-        android:icon="@drawable/sport"/>
-    <item
         android:id="@+id/profile"
         android:title="Profile"
         android:icon="@drawable/profil"/>
